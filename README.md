@@ -12,6 +12,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shuheikomatsuki&theme=juicyfresh&no-bg=true" alt="shuheikomatsuki" />
 </p>
 
+## 🏗️ Personal Projects
+
+### [english-tadoku-app](https://github.com/shuheikomatsuki/english-tadoku-app)
+An English extensive reading (多読) web app designed to help learners improve their English.
 
 <!--
 **shuheikomatsuki/shuheikomatsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
