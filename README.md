@@ -12,7 +12,7 @@
 
 ## 🏗️ 個人開発
 
-### [english-tadoku-app](https://github.com/shuheikomatsuki/english-tadoku-app)
+### [Readoku](https://github.com/shuheikomatsuki/readoku)
 英語の多読を支援するWebアプリ
 
 <!--
