@@ -6,10 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shuheikomatsuki&show_icons=true&locale=en&theme=chartreuse-dark" alt="shuheikomatsuki" width="410" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=shuheikomatsuki&theme=juicyfresh&no-bg=true" alt="shuheikomatsuki" />
-</p>
-
 ## 🏗️ 個人開発
 
 ### [Readoku](https://github.com/shuheikomatsuki/readoku)
